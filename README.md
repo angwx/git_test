@@ -15,8 +15,8 @@
 <!-- Add link to your picture -->
 
 ![alt text](https://github.com/angwx/git_test/blob/main/images/240px-143Snorlax.png)
+![alt text](https://github.com/angwx/git_test/blob/main/images/github%20test.png)
 
-https://github.com/angwx/git_test/blob/main/images/github%20test.png
 
 <!-- Add your details -->
 
