@@ -16,6 +16,8 @@
 
 ![alt text](https://github.com/angwx/git_test/blob/main/images/240px-143Snorlax.png)
 
+https://github.com/angwx/git_test/blob/main/images/github%20test.png
+
 <!-- Add your details -->
 
 I am __XXX__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
