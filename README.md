@@ -14,7 +14,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/angwx/git_test/blob/23ecc2338bc5db3df4afa1a15a6dc6ecd7228cea/images/Screenshot%202021-06-24%20at%209.54.51%20AM.png)
+![alt text](https://github.com/angwx/git_test/blob/main/images/240px-143Snorlax.png)
 
 <!-- Add your details -->
 
